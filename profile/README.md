@@ -14,7 +14,7 @@ Venha conosco e transforme a maneira como você viaja!
 
 ### Info
 
-- **Contato de Segurança**: Para qualquer questão de segurança, entre em contato via [security@voyon.com](mailto:security@voyon.com.br).
+- **Contato de Segurança**: Para qualquer questão de segurança, entre em contato via [security@voyon.com.br](mailto:security@voyon.com.br).
 - **Carreiras**: Interessado em fazer parte da nossa equipe? Envie sua candidatura para [vagas@voyon.com.br](mailto:vagas@voyon.com.br).
 - **Documentação da API**: Desenvolvedores podem explorar nossa API em [Documentação da API Voyon](https://api.voyon.com.br).
 
@@ -30,7 +30,7 @@ Venha conosco e transforme a maneira como você viaja!
 
 ### Info
 
-- **Security Contact**: For any security concerns, please reach out to [security@voyon.com](mailto:security@voyon.com.br).
+- **Security Contact**: For any security concerns, please reach out to [security@voyon.com.br](mailto:security@voyon.com.br).
 - **Careers**: Interested in joining our team? Send your application to [vagas@voyon.com.br](mailto:vagas@voyon.com.br).
 - **API Documentation**: Developers can explore our API at [Voyon API Docs](https://api.voyon.com.br).
 
